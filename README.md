@@ -43,7 +43,6 @@
 ![arcade](https://github.com/txuswashere/roms-MAME/raw/main/artwork/blockout-thumb.jpg "arcade") 
 ![arcade](https://github.com/txuswashere/roms-MAME/raw/main/artwork/blockout-thumb.png "arcade") 
 ![arcade](https://github.com/txuswashere/roms-MAME/raw/main/artwork/bloodbro-thumb.png "arcade") 
-![arcade](https://github.com/txuswashere/roms-MAME/raw/main/artwork/bmaster-thumb.jpg "arcade") 
 ![arcade](https://github.com/txuswashere/roms-MAME/raw/main/artwork/bmaster-thumb.png "arcade") 
 ![arcade](https://github.com/txuswashere/roms-MAME/raw/main/artwork/bnj-thumb.png "arcade") 
 ![arcade](https://github.com/txuswashere/roms-MAME/raw/main/artwork/bnzabros-thumb.png "arcade") 
